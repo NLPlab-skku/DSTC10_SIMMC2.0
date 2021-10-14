@@ -1,0 +1,4776 @@
+{
+    "1498649_store/Prefabs/_itog039": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XS", 
+            "S", 
+            "XL"
+        ], 
+        "color": "red, white, yellow", 
+        "pattern": "plaid", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 39.99, 
+        "size": "XS"
+    }, 
+    "1498649_store/Prefabs/_itog038": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "M", 
+            "XS"
+        ], 
+        "color": "red, white, yellow", 
+        "pattern": "plaid", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 79.99, 
+        "size": "M"
+    }, 
+    "1208725/Jacket_red": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 3.3, 
+        "availableSizes": [
+            "XS", 
+            "L"
+        ], 
+        "color": "red, white", 
+        "pattern": "twin colors", 
+        "brand": "Coats & More", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 234.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_11": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "M"
+        ], 
+        "color": "purple", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 79.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_2_08": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "white, black", 
+        "pattern": "spots", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "sleeveless", 
+        "type": "blouse", 
+        "price": 39.99, 
+        "size": "S"
+    }, 
+    "1498649_store/Prefabs/_itog031": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "XS", 
+            "S", 
+            "XL"
+        ], 
+        "color": "black", 
+        "pattern": "velvet", 
+        "brand": "StyleNow Feed", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 74.99, 
+        "size": "XL"
+    }, 
+    "1498649_store/Prefabs/_itog030": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "M", 
+            "XL", 
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Home Store", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 54.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_2_07": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "XS", 
+            "L", 
+            "M", 
+            "S"
+        ], 
+        "color": "dark grey", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "sleeveless", 
+        "type": "blouse", 
+        "price": 84.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded47": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XL", 
+            "L"
+        ], 
+        "color": "grey, black", 
+        "pattern": "plain", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 139.99, 
+        "size": "XL"
+    }, 
+    "1498649_store/Prefabs/_itog034": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "M", 
+            "L", 
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "velvet", 
+        "brand": "StyleNow Feed", 
+        "sleeveLength": "short", 
+        "type": "dress", 
+        "price": 189.99, 
+        "size": "XL"
+    }, 
+    "1514019/Rearranged/TShirt_Black_2": {
+        "assetType": "tshirt_display", 
+        "customerReview": 2.5, 
+        "availableSizes": [
+            "L", 
+            "XXL", 
+            "XS", 
+            "S"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "HairDo", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 64.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/dress shirt b": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "S"
+        ], 
+        "color": "white, black", 
+        "pattern": "light vertical stripes", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "full", 
+        "type": "shirt", 
+        "price": 14.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_8": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.1, 
+        "availableSizes": [
+            "XL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "brown", 
+        "pattern": "vertical stripes", 
+        "brand": "Art Den", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 89.99, 
+        "size": "XL"
+    }, 
+    "1514019/Rearranged/Sport_Pants": {
+        "assetType": "trousers_display", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "M", 
+            "S", 
+            "L", 
+            "XL"
+        ], 
+        "color": "dark green", 
+        "pattern": "plain with stripes on side", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "", 
+        "type": "joggers", 
+        "price": 174.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/jacket_4_05": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "North Lodge", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 174.99, 
+        "size": "XS"
+    }, 
+    "1514019/Rearranged/Jeans_Blue_V2": {
+        "assetType": "trousers_display", 
+        "customerReview": 4.7, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "XS", 
+            "XXL", 
+            "M"
+        ], 
+        "color": "dark blue", 
+        "pattern": "denim", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "", 
+        "type": "jeans", 
+        "price": 184.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_4": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "XL", 
+            "XXL", 
+            "L"
+        ], 
+        "color": "blue, white", 
+        "pattern": "heavy vertical stripes", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 89.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_5": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.1, 
+        "availableSizes": [
+            "XXL", 
+            "L", 
+            "XL", 
+            "XS", 
+            "M", 
+            "S"
+        ], 
+        "color": "blue, white", 
+        "pattern": "checkered", 
+        "brand": "Coats & More", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 24.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/jacket_4_09": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.0, 
+        "availableSizes": [
+            "S", 
+            "XL"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 174.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_7": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XL", 
+            "M", 
+            "S", 
+            "L"
+        ], 
+        "color": "brown", 
+        "pattern": "vertical stripes", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 59.99, 
+        "size": "S"
+    }, 
+    "1514019/Rearranged/Cap": {
+        "assetType": "hat", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "XS", 
+            "M", 
+            "S", 
+            "XL", 
+            "XXL", 
+            "L"
+        ], 
+        "color": "grey", 
+        "pattern": "text", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "", 
+        "type": "hat", 
+        "price": 19.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_1": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "XS", 
+            "XXL", 
+            "L", 
+            "M", 
+            "S", 
+            "XL"
+        ], 
+        "color": "grey, brown", 
+        "pattern": "stripes", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 69.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_2": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "XL", 
+            "XS", 
+            "XXL", 
+            "S"
+        ], 
+        "color": "blue, white", 
+        "pattern": "light vertical stripes", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 74.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_3": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "XXL", 
+            "L", 
+            "XL"
+        ], 
+        "color": "white, blue", 
+        "pattern": "light vertical stripes", 
+        "brand": "New Fashion", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 69.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/tank_top_1_37": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "L", 
+            "M", 
+            "S", 
+            "XL"
+        ], 
+        "color": "yellow, white", 
+        "pattern": "floral", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "sleeveless", 
+        "type": "tank top", 
+        "price": 4.99, 
+        "size": "XS"
+    }, 
+    "1514019/Rearranged/Sport_Jacket": {
+        "assetType": "jacket_display", 
+        "customerReview": 5.0, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "dark green, dark blue", 
+        "pattern": "plain", 
+        "brand": "HairDo", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 79.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/hanging_dress_1_12": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "XL", 
+            "M", 
+            "XS"
+        ], 
+        "color": "purple", 
+        "pattern": "plain", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 24.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_folded_1_03": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "light grey", 
+        "pattern": "plain", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 34.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/vest04": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "XXL", 
+            "M", 
+            "S", 
+            "L", 
+            "XL"
+        ], 
+        "color": "blue, white", 
+        "pattern": "plain", 
+        "brand": "HairDo", 
+        "sleeveLength": "sleeveless", 
+        "type": "vest", 
+        "price": 84.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/vest03": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "sleeveless", 
+        "type": "vest", 
+        "price": 19.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded45": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "L", 
+            "XS", 
+            "S", 
+            "XXL", 
+            "M"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Coats & More", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 74.99, 
+        "size": "M"
+    }, 
+    "clothing_store/models/prefab/cap_2": {
+        "assetType": "hat", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "M", 
+            "S", 
+            "XL", 
+            "L", 
+            "XXL", 
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "radiant", 
+        "brand": "Home Store", 
+        "sleeveLength": "", 
+        "type": "hat", 
+        "price": 69.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/jacket_1": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XS", 
+            "XXL", 
+            "XL", 
+            "M", 
+            "L"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "North Lodge", 
+        "sleeveLength": "full", 
+        "type": "coat", 
+        "price": 109.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded_3": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.3, 
+        "availableSizes": [
+            "XXL", 
+            "S"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Fancy Nails", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 59.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded_2": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "XL"
+        ], 
+        "color": "green", 
+        "pattern": "plain", 
+        "brand": "North Lodge", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 174.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded_5": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "L", 
+            "M"
+        ], 
+        "color": "maroon", 
+        "pattern": "plain", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 124.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded_4": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "M", 
+            "XS", 
+            "S"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Nature Photographers", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 89.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/folded polo shirt34": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "XXL", 
+            "M", 
+            "S"
+        ], 
+        "color": "yellow", 
+        "pattern": "plain", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "short", 
+        "type": "tshirt", 
+        "price": 79.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded_6": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "XL", 
+            "XXL", 
+            "S", 
+            "XS"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 209.99, 
+        "size": "XL"
+    }, 
+    "clothing_store/models/prefab/sneakers_5": {
+        "assetType": "shoes", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "M"
+        ], 
+        "color": "black", 
+        "pattern": "design", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 54.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt display 03": {
+        "assetType": "tshirt_display", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "M", 
+            "XL"
+        ], 
+        "color": "yellow", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 44.99, 
+        "size": "M"
+    }, 
+    "clothing_store/models/prefab/sneakers_4": {
+        "assetType": "shoes", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "XL", 
+            "XXL", 
+            "S", 
+            "XS", 
+            "L"
+        ], 
+        "color": "black", 
+        "pattern": "canvas", 
+        "brand": "HairDo", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 149.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt display 02": {
+        "assetType": "tshirt_display", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "red", 
+        "pattern": "plain", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_folded_1_14": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "XS"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 39.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_folded_1_15": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "L", 
+            "XL", 
+            "M", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "violet", 
+        "pattern": "plain", 
+        "brand": "Art Den", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 4.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_folded_1_06": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "L", 
+            "S", 
+            "M", 
+            "XS"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 69.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/tank_top_1_21": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "XXL"
+        ], 
+        "color": "black, red, white", 
+        "pattern": "spots", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "sleeveless", 
+        "type": "tank top", 
+        "price": 79.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded54": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "XL", 
+            "M", 
+            "S", 
+            "XS"
+        ], 
+        "color": "yellow, black", 
+        "pattern": "plain", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 184.99, 
+        "size": "S"
+    }, 
+    "1514019/Rearranged/Jeans_Blue_V3": {
+        "assetType": "trousers_display", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "XXL", 
+            "XS"
+        ], 
+        "color": "blue, black", 
+        "pattern": "denim", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "", 
+        "type": "jeans", 
+        "price": 244.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/dress shirt c": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.0, 
+        "availableSizes": [
+            "XL"
+        ], 
+        "color": "black, white", 
+        "pattern": "heavy vertical stripes", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "full", 
+        "type": "shirt", 
+        "price": 29.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/leather_jacket_1_17": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "S", 
+            "M"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "long", 
+        "type": "jacket", 
+        "price": 199.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/dress shirt a": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "S", 
+            "XXL"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Home Store", 
+        "sleeveLength": "full", 
+        "type": "shirt", 
+        "price": 94.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/leather_jacket_1_13": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XS", 
+            "L", 
+            "M", 
+            "S", 
+            "XL", 
+            "XXL"
+        ], 
+        "color": "black", 
+        "pattern": "leather", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "long", 
+        "type": "jacket", 
+        "price": 44.99, 
+        "size": "L"
+    }, 
+    "1514019/Rearranged/Jeans_Blue_V4": {
+        "assetType": "trousers_display", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "L"
+        ], 
+        "color": "light blue", 
+        "pattern": "denim", 
+        "brand": "River Chateau", 
+        "sleeveLength": "", 
+        "type": "jeans", 
+        "price": 139.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_2_05": {
+        "assetType": "skirt", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "XS", 
+            "L", 
+            "M", 
+            "XL"
+        ], 
+        "color": "red, black", 
+        "pattern": "vertical design", 
+        "brand": "Nature Photographers", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 24.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/leather_jacket_1_20": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "M", 
+            "L"
+        ], 
+        "color": "brown", 
+        "pattern": "leather", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "long", 
+        "type": "jacket", 
+        "price": 49.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_2_07": {
+        "assetType": "skirt", 
+        "customerReview": 5.0, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 29.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 08": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "XS", 
+            "S", 
+            "L", 
+            "XL", 
+            "XXL", 
+            "M"
+        ], 
+        "color": "blue, white", 
+        "pattern": "horizontal stripes", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 24.99, 
+        "size": "XXL"
+    }, 
+    "clothing_store/models/prefab/sneakers_3": {
+        "assetType": "shoes", 
+        "customerReview": 2.5, 
+        "availableSizes": [
+            "L", 
+            "XL"
+        ], 
+        "color": "red", 
+        "pattern": "canvas", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 244.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_shirt_on_hanger": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "XXL", 
+            "L", 
+            "XS", 
+            "XL", 
+            "S", 
+            "M"
+        ], 
+        "color": "pink, white", 
+        "pattern": "vertical stripes", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 24.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/tank_top_1_29": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "XL"
+        ], 
+        "color": "red, white", 
+        "pattern": "floral", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "sleeveless", 
+        "type": "tank top", 
+        "price": 24.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 07": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "XL", 
+            "XXL", 
+            "S", 
+            "L", 
+            "XS"
+        ], 
+        "color": "yellow", 
+        "pattern": "plain", 
+        "brand": "Art Den", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 69.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_2_07 1": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "M"
+        ], 
+        "color": "light grey", 
+        "pattern": "plain", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 39.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 05": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "XXL", 
+            "XL", 
+            "M", 
+            "L"
+        ], 
+        "color": "orange", 
+        "pattern": "plain", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 34.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 04": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 5.0, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "XL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "purple", 
+        "pattern": "plain", 
+        "brand": "Art Den", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "XL"
+    }, 
+    "1514019/Rearranged/Sweater_001": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "XXL"
+        ], 
+        "color": "yellow, brown", 
+        "pattern": "vertical stripes", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "full", 
+        "type": "sweater", 
+        "price": 34.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded58": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "light pink", 
+        "pattern": "plain", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 84.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_4_": {
+        "assetType": "dress_hanging", 
+        "customerReview": 4.7, 
+        "availableSizes": [
+            "M"
+        ], 
+        "color": "dark brown", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 24.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 40 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "M", 
+            "XXL", 
+            "L", 
+            "XL"
+        ], 
+        "color": "dark grey", 
+        "pattern": "plain", 
+        "brand": "Home Store", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 9.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_01_01": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "black, white", 
+        "pattern": "spots", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 4.99, 
+        "size": "S"
+    }, 
+    "1514019/Rearranged/Sneakers_3": {
+        "assetType": "shoes", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "XS", 
+            "L", 
+            "S"
+        ], 
+        "color": "black, white", 
+        "pattern": "twin colors", 
+        "brand": "Art Den", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 54.99, 
+        "size": "S"
+    }, 
+    "1498649_store/Prefabs/_itog011": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 4.0, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "XL", 
+            "M", 
+            "L"
+        ], 
+        "color": "black", 
+        "pattern": "knit", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "short", 
+        "type": "dress", 
+        "price": 199.99, 
+        "size": "M"
+    }, 
+    "1498649_store/Prefabs/_itog017": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "M", 
+            "XL", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "black", 
+        "pattern": "design", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 54.99, 
+        "size": "XXL"
+    }, 
+    "1498649_store/Prefabs/_itog015": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "S", 
+            "M", 
+            "L"
+        ], 
+        "color": "pink", 
+        "pattern": "knit", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 74.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/folded polo shirt00": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "XXL"
+        ], 
+        "color": "violet", 
+        "pattern": "plain", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "short", 
+        "type": "tshirt", 
+        "price": 89.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_02": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "S", 
+            "M", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "dark yellow", 
+        "pattern": "plain", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "full", 
+        "type": "sweater", 
+        "price": 79.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_shirt_on_hanger12": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "M", 
+            "XXL", 
+            "L", 
+            "XS"
+        ], 
+        "color": "blue, white", 
+        "pattern": "vertical stripes", 
+        "brand": "Coats & More", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 64.99, 
+        "size": "XL"
+    }, 
+    "1498649_store/Prefabs/_itog018": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "L", 
+            "XL"
+        ], 
+        "color": "red, white", 
+        "pattern": "plaid", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 29.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_folded_1_21": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "XL"
+        ], 
+        "color": "light red", 
+        "pattern": "plain", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 29.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_01_21": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "XS", 
+            "S", 
+            "XL"
+        ], 
+        "color": "green, white", 
+        "pattern": "light spots", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 24.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/leather_jacket_1_08": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.1, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "212 Local", 
+        "sleeveLength": "long", 
+        "type": "jacket", 
+        "price": 169.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_01_55": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "XXL", 
+            "L", 
+            "S"
+        ], 
+        "color": "grey, white", 
+        "pattern": "light spots", 
+        "brand": "North Lodge", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 54.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded20": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.3, 
+        "availableSizes": [
+            "XS", 
+            "M"
+        ], 
+        "color": "maroon", 
+        "pattern": "plain", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 64.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded21": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.7, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "XXL", 
+            "L", 
+            "M", 
+            "XS"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Coats & More", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 139.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/suit 3": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "XL"
+        ], 
+        "color": "black, red", 
+        "pattern": "plain", 
+        "brand": "Art Den", 
+        "sleeveLength": "full", 
+        "type": "suit", 
+        "price": 24.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/suit 2": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "M", 
+            "L", 
+            "S", 
+            "XXL", 
+            "XS"
+        ], 
+        "color": "grey, blue", 
+        "pattern": "plain", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "full", 
+        "type": "suit", 
+        "price": 59.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/suit 1": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "M", 
+            "L"
+        ], 
+        "color": "brown, white", 
+        "pattern": "plain", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "full", 
+        "type": "suit", 
+        "price": 24.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_2_08 1": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "S", 
+            "XL", 
+            "M", 
+            "XS"
+        ], 
+        "color": "black, white", 
+        "pattern": "horizontal stripes", 
+        "brand": "HairDo", 
+        "sleeveLength": "sleeveless", 
+        "type": "blouse", 
+        "price": 54.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/leather_jacket_1_04": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "S", 
+            "XL", 
+            "M", 
+            "L", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "brown", 
+        "pattern": "leather", 
+        "brand": "River Chateau", 
+        "sleeveLength": "long", 
+        "type": "jacket", 
+        "price": 154.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded29": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XS", 
+            "S", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "green", 
+        "pattern": "plain", 
+        "brand": "River Chateau", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 164.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 04 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XL", 
+            "M"
+        ], 
+        "color": "maroon", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 59.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/long_coat_12": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "M", 
+            "XL", 
+            "XXL", 
+            "XS", 
+            "L", 
+            "S"
+        ], 
+        "color": "light grey", 
+        "pattern": "plain", 
+        "brand": "StyleNow Feed", 
+        "sleeveLength": "long", 
+        "type": "coat", 
+        "price": 179.99, 
+        "size": "XL"
+    }, 
+    "1208725/Tshirt_grey": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "S", 
+            "XXL"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 64.99, 
+        "size": "XXL"
+    }, 
+    "1514019/Rearranged/TShirt_White_2": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "XXL", 
+            "L", 
+            "XL", 
+            "M", 
+            "S"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Fancy Nails", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 79.99, 
+        "size": "XXL"
+    }, 
+    "clothing_store/models/prefab/trousers": {
+        "assetType": "trousers_display", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XL"
+        ], 
+        "color": "green", 
+        "pattern": "camouflage", 
+        "brand": "North Lodge", 
+        "sleeveLength": "", 
+        "type": "trousers", 
+        "price": 184.99, 
+        "size": "XL"
+    }, 
+    "1498649_store/Prefabs/_itog041": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "S", 
+            "XL"
+        ], 
+        "color": "white, black, red", 
+        "pattern": "checkered", 
+        "brand": "North Lodge", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 79.99, 
+        "size": "XL"
+    }, 
+    "1514019/Rearranged/Jacket_Grey": {
+        "assetType": "jacket_display", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "XXL", 
+            "XL", 
+            "XS", 
+            "S", 
+            "M", 
+            "L"
+        ], 
+        "color": "grey", 
+        "pattern": "leather", 
+        "brand": "Art News Today", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 239.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 11": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "M", 
+            "XXL", 
+            "XL", 
+            "XS"
+        ], 
+        "color": "light orange", 
+        "pattern": "plain", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 24.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 12": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "S", 
+            "L", 
+            "M", 
+            "XL", 
+            "XS"
+        ], 
+        "color": "orange, purple", 
+        "pattern": "horizontal stripes", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 54.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 13": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "XS", 
+            "S"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Home Store", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 74.99, 
+        "size": "S"
+    }, 
+    "clothing_store/models/prefab/cap": {
+        "assetType": "hat", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "XS", 
+            "XXL"
+        ], 
+        "color": "green", 
+        "pattern": "camouflage", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "", 
+        "type": "hat", 
+        "price": 64.99, 
+        "size": "XS"
+    }, 
+    "1514019/Rearranged/Hat_NY_PD": {
+        "assetType": "hat", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "L", 
+            "XXL"
+        ], 
+        "color": "dirty green", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "", 
+        "type": "hat", 
+        "price": 74.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_4_24": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XL"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 59.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt with vest 1": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "XXL", 
+            "XS"
+        ], 
+        "color": "grey, blue", 
+        "pattern": "light vertical stripes", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "full", 
+        "type": "shirt, vest", 
+        "price": 74.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt with vest 3": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "XL"
+        ], 
+        "color": "grey", 
+        "pattern": "light vertical stripes", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "full", 
+        "type": "shirt, vest", 
+        "price": 74.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt with vest 2": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.3, 
+        "availableSizes": [
+            "XS", 
+            "S", 
+            "L"
+        ], 
+        "color": "grey, white", 
+        "pattern": "light vertical stripes", 
+        "brand": "Nature Photographers", 
+        "sleeveLength": "full", 
+        "type": "shirt, vest", 
+        "price": 19.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/shirt_4_05": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "XXL", 
+            "M"
+        ], 
+        "color": "blue, grey", 
+        "pattern": "vertical striples", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 69.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_04": {
+        "assetType": "skirt", 
+        "customerReview": 5.0, 
+        "availableSizes": [
+            "M", 
+            "L", 
+            "XS", 
+            "XXL", 
+            "XL", 
+            "S"
+        ], 
+        "color": "grey, white", 
+        "pattern": "spots", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 9.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_05": {
+        "assetType": "skirt", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "M", 
+            "XXL", 
+            "L", 
+            "XS", 
+            "S", 
+            "XL"
+        ], 
+        "color": "blue, grey", 
+        "pattern": "plain", 
+        "brand": "New Fashion", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 74.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_3_": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "XXL", 
+            "M", 
+            "S"
+        ], 
+        "color": "black, grey", 
+        "pattern": "checkered, plain", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 94.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_01": {
+        "assetType": "skirt", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "grey, white", 
+        "pattern": "vertical design", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 9.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded64": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XXL", 
+            "M"
+        ], 
+        "color": "pink", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 169.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/folded polo shirt13": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "XL", 
+            "XS", 
+            "L", 
+            "M"
+        ], 
+        "color": "green", 
+        "pattern": "plain", 
+        "brand": "HairDo", 
+        "sleeveLength": "short", 
+        "type": "tshirt", 
+        "price": 79.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded63": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "S", 
+            "XXL", 
+            "L", 
+            "M", 
+            "XS"
+        ], 
+        "color": "purple", 
+        "pattern": "plain", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 199.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/suit_hanging04": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "XL", 
+            "M", 
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "long", 
+        "type": "suit", 
+        "price": 144.99, 
+        "size": "XS"
+    }, 
+    "1208725/Jacket_gray": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "M", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "grey, white", 
+        "pattern": "twin colors", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 109.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/leather_jacket_1": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "XL", 
+            "M"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Coats & More", 
+        "sleeveLength": "long", 
+        "type": "jacket", 
+        "price": 199.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 40": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "XXL"
+        ], 
+        "color": "yellow", 
+        "pattern": "diamonds", 
+        "brand": "212 Local", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 84.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 30": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.0, 
+        "availableSizes": [
+            "M", 
+            "S"
+        ], 
+        "color": "pink, white", 
+        "pattern": "horizontal stripes", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 34.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_01_16": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "XL"
+        ], 
+        "color": "pink, white", 
+        "pattern": "light spots", 
+        "brand": "Art Den", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 54.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_01_17": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.3, 
+        "availableSizes": [
+            "XL", 
+            "XXL"
+        ], 
+        "color": "grey, white", 
+        "pattern": "light spots", 
+        "brand": "Home Store", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 29.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded33": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "M", 
+            "S", 
+            "XL"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 214.99, 
+        "size": "XL"
+    }, 
+    "1514019/Rearranged/Sweater_Black_001": {
+        "assetType": "tshirt_display", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "XL", 
+            "M", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "black", 
+        "pattern": "stripes", 
+        "brand": "River Chateau", 
+        "sleeveLength": "full", 
+        "type": "sweater", 
+        "price": 59.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_mannequin_1_01": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "XXL", 
+            "XL", 
+            "M", 
+            "XS"
+        ], 
+        "color": "white, grey", 
+        "pattern": "vertical stripes", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 64.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded38": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "XL", 
+            "XXL"
+        ], 
+        "color": "white, black", 
+        "pattern": "plain", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 29.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_mannequin_1": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.0, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "blue, white", 
+        "pattern": "vertical stripes", 
+        "brand": "Fancy Nails", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 79.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 25": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "XL", 
+            "L", 
+            "M", 
+            "XXL", 
+            "S", 
+            "XS"
+        ], 
+        "color": "green", 
+        "pattern": "plain", 
+        "brand": "New Fashion", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 44.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress2_30": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XS", 
+            "L", 
+            "XXL", 
+            "S"
+        ], 
+        "color": "olive", 
+        "pattern": "plain", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 99.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 26": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.1, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "M", 
+            "XL"
+        ], 
+        "color": "green, white", 
+        "pattern": "horizontal stripes", 
+        "brand": "Art Den", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 39.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 21": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "XS", 
+            "XL", 
+            "S", 
+            "L"
+        ], 
+        "color": "dark red", 
+        "pattern": "plain", 
+        "brand": "Art Den", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 84.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/shirt_6_03": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "S", 
+            "L", 
+            "XL", 
+            "M", 
+            "XXL", 
+            "XS"
+        ], 
+        "color": "grey, brown", 
+        "pattern": "vertical striples", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 29.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 23": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "L", 
+            "XXL", 
+            "XS"
+        ], 
+        "color": "olive", 
+        "pattern": "plain", 
+        "brand": "Nature Photographers", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 49.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 22": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "XL", 
+            "XS", 
+            "S", 
+            "M", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "brown, white", 
+        "pattern": "horizontal stripes", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 54.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up30": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "M", 
+            "XL"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 79.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/suit_hanging13": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "XXL"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "long", 
+        "type": "suit", 
+        "price": 229.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 18 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "olive, black", 
+        "pattern": "horizontal stripes", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 28": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "S", 
+            "L", 
+            "XXL", 
+            "M"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "212 Local", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 89.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_4_11": {
+        "assetType": "dress_hanging", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "XL", 
+            "S"
+        ], 
+        "color": "violet", 
+        "pattern": "plain", 
+        "brand": "HairDo", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 244.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up24 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "S", 
+            "L", 
+            "XL", 
+            "XXL"
+        ], 
+        "color": "pink, black", 
+        "pattern": "vertical stripes", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 4.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 64.99, 
+        "size": "XS"
+    }, 
+    "1514019/Rearranged/Jean_Jacket": {
+        "assetType": "jacket_display", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XXL", 
+            "XL", 
+            "M", 
+            "L", 
+            "S", 
+            "XS"
+        ], 
+        "color": "blue, green", 
+        "pattern": "denim", 
+        "brand": "River Chateau", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 139.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_15": {
+        "assetType": "skirt", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "XS", 
+            "XXL", 
+            "XL", 
+            "S"
+        ], 
+        "color": "green, black", 
+        "pattern": "checkered", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 59.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_14": {
+        "assetType": "skirt", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XXL", 
+            "XL", 
+            "S"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "North Lodge", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 14.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/suit_hanging10": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "M", 
+            "S", 
+            "XXL", 
+            "XS", 
+            "XL", 
+            "L"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "long", 
+        "type": "suit", 
+        "price": 114.99, 
+        "size": "XXL"
+    }, 
+    "1514019/Rearranged/Jean_Jacket_2": {
+        "assetType": "jacket_display", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "M", 
+            "XL", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "light blue, light green", 
+        "pattern": "denim", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 229.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_shirt_1-26": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "S", 
+            "XL", 
+            "L", 
+            "M", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 89.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up21": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "XS", 
+            "M"
+        ], 
+        "color": "yellow", 
+        "pattern": "plain", 
+        "brand": "Art Den", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 44.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_folded_1_09": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "L", 
+            "XXL", 
+            "XL", 
+            "S", 
+            "XS"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 84.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded74": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "M", 
+            "L", 
+            "XS", 
+            "S", 
+            "XXL"
+        ], 
+        "color": "red", 
+        "pattern": "plain", 
+        "brand": "HairDo", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 119.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "blue, white", 
+        "pattern": "light vertical stripes", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 44.99, 
+        "size": "S"
+    }, 
+    "clothing_store/models/prefab/T_shirt_3": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "XXL", 
+            "M", 
+            "L", 
+            "S", 
+            "XS", 
+            "XL"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "North Lodge", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_shirt_on_hanger11": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "S", 
+            "M"
+        ], 
+        "color": "dark pink, white", 
+        "pattern": "vertical stripes", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 74.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_01_07": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "L"
+        ], 
+        "color": "black, white", 
+        "pattern": "vertical design", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 19.99, 
+        "size": "S"
+    }, 
+    "clothing_store/models/prefab/cap_4": {
+        "assetType": "hat", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XS", 
+            "M", 
+            "L", 
+            "S", 
+            "XXL", 
+            "XL"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "", 
+        "type": "hat", 
+        "price": 94.99, 
+        "size": "M"
+    }, 
+    "clothing_store/models/prefab/T_shirt_7": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "S", 
+            "XXL", 
+            "XS", 
+            "M", 
+            "L", 
+            "XL"
+        ], 
+        "color": "purple", 
+        "pattern": "plain", 
+        "brand": "North Lodge", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "S"
+    }, 
+    "clothing_store/models/prefab/T_shirt_6": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "S", 
+            "L"
+        ], 
+        "color": "yellow", 
+        "pattern": "design", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 69.99, 
+        "size": "L"
+    }, 
+    "clothing_store/models/prefab/T_shirt_5": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "M", 
+            "XL", 
+            "S", 
+            "L", 
+            "XXL", 
+            "XS"
+        ], 
+        "color": "green", 
+        "pattern": "design", 
+        "brand": "212 Local", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "L"
+    }, 
+    "clothing_store/models/prefab/T_shirt_4": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "XL", 
+            "M", 
+            "L"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 59.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_12": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "S", 
+            "M", 
+            "XXL", 
+            "L", 
+            "XS", 
+            "XL"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Home Store", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 59.99, 
+        "size": "XS"
+    }, 
+    "clothing_store/models/prefab/T_shirt_9": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XL"
+        ], 
+        "color": "grey", 
+        "pattern": "design", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 34.99, 
+        "size": "XL"
+    }, 
+    "clothing_store/models/prefab/T_shirt_8": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "L", 
+            "XL", 
+            "M", 
+            "S"
+        ], 
+        "color": "black", 
+        "pattern": "design", 
+        "brand": "North Lodge", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 84.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded07": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "M", 
+            "XXL", 
+            "L"
+        ], 
+        "color": "dirty grey", 
+        "pattern": "plain", 
+        "brand": "Art Den", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 34.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up28": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "L", 
+            "S", 
+            "XL", 
+            "M", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "green", 
+        "pattern": "plain", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 29.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 31": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "M", 
+            "XXL", 
+            "L"
+        ], 
+        "color": "dark green", 
+        "pattern": "plain", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 9.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 36": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "XL", 
+            "M", 
+            "S"
+        ], 
+        "color": "blue, grey", 
+        "pattern": "horizontal stripes", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 54.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_10": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "XL", 
+            "L", 
+            "S", 
+            "M"
+        ], 
+        "color": "violet", 
+        "pattern": "plain", 
+        "brand": "Art News Today", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 14.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_4_08": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "M", 
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "purple", 
+        "pattern": "plain", 
+        "brand": "New Fashion", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 169.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/jacket_3_06": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "M", 
+            "XXL"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 39.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_4_04": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "XS", 
+            "XL", 
+            "L", 
+            "S", 
+            "XXL", 
+            "M"
+        ], 
+        "color": "maroon", 
+        "pattern": "plain", 
+        "brand": "Nature Photographers", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 184.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/jacket_3_02": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "XL"
+        ], 
+        "color": "light grey", 
+        "pattern": "plain", 
+        "brand": "212 Local", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 44.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_shirt_1-12": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "XXL"
+        ], 
+        "color": "dark pink", 
+        "pattern": "plain", 
+        "brand": "River Chateau", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 74.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up24": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "M", 
+            "XXL", 
+            "L"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 44.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_4_00": {
+        "assetType": "dress_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "M", 
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 229.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded04": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "green", 
+        "pattern": "plain", 
+        "brand": "Coats & More", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 209.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_1_05": {
+        "assetType": "skirt", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "M", 
+            "L", 
+            "S", 
+            "XXL"
+        ], 
+        "color": "red, grey", 
+        "pattern": "star design", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 49.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_1_06": {
+        "assetType": "skirt", 
+        "customerReview": 4.0, 
+        "availableSizes": [
+            "L"
+        ], 
+        "color": "light grey", 
+        "pattern": "plain", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 49.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded01": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.3, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "XS"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Nature Photographers", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 199.99, 
+        "size": "XS"
+    }, 
+    "clothing_store/models/prefab/sneakers": {
+        "assetType": "shoes", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "M", 
+            "L", 
+            "XL", 
+            "S", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "grey", 
+        "pattern": "dotted", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 64.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded02": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "XL", 
+            "XXL"
+        ], 
+        "color": "dark violet", 
+        "pattern": "plain", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 24.99, 
+        "size": "XXL"
+    }, 
+    "clothing_store/models/prefab/T_shirt": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.5, 
+        "availableSizes": [
+            "S", 
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded09": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "M", 
+            "XL", 
+            "XS"
+        ], 
+        "color": "red", 
+        "pattern": "stripes", 
+        "brand": "Garden Retail", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 154.99, 
+        "size": "M"
+    }, 
+    "clothing_store/models/prefab/T_shirt_10": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XS", 
+            "M", 
+            "S", 
+            "XXL", 
+            "XL"
+        ], 
+        "color": "white", 
+        "pattern": "design", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 59.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_1_": {
+        "assetType": "skirt", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XXL", 
+            "XS", 
+            "L", 
+            "S"
+        ], 
+        "color": "black, grey", 
+        "pattern": "star design", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 29.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up21 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "M", 
+            "S", 
+            "XL", 
+            "XXL"
+        ], 
+        "color": "olive, white", 
+        "pattern": "vertical stripes", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 54.99, 
+        "size": "M"
+    }, 
+    "clothing_store/models/prefab/trousers_3": {
+        "assetType": "trousers_display", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "grey", 
+        "pattern": "light stripes", 
+        "brand": "Coats & More", 
+        "sleeveLength": "", 
+        "type": "trousers", 
+        "price": 189.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_shirt_1-17": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "XXL", 
+            "M", 
+            "XS"
+        ], 
+        "color": "red", 
+        "pattern": "plain", 
+        "brand": "River Chateau", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 29.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/long_coat_10 1": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "L", 
+            "XXL", 
+            "XS", 
+            "M"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "long", 
+        "type": "coat", 
+        "price": 139.99, 
+        "size": "L"
+    }, 
+    "clothing_store/models/prefab/trousers_4": {
+        "assetType": "trousers_display", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "River Chateau", 
+        "sleeveLength": "", 
+        "type": "trousers", 
+        "price": 244.99, 
+        "size": "XS"
+    }, 
+    "clothing_store/models/prefab/trousers_5": {
+        "assetType": "trousers_display", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "S", 
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "", 
+        "type": "trousers", 
+        "price": 239.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded_1": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "XL", 
+            "L", 
+            "XS", 
+            "M", 
+            "XXL"
+        ], 
+        "color": "dark grey", 
+        "pattern": "plain", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 214.99, 
+        "size": "XL"
+    }, 
+    "clothing_store/models/prefab/cap_3": {
+        "assetType": "hat", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "L", 
+            "M", 
+            "XL", 
+            "XXL"
+        ], 
+        "color": "black, orange", 
+        "pattern": "multicolored", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "", 
+        "type": "hat", 
+        "price": 89.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded17": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "XS", 
+            "XXL", 
+            "S"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 204.99, 
+        "size": "S"
+    }, 
+    "1514019/Rearranged/Vest_Green_Hood": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "XS", 
+            "L", 
+            "XXL", 
+            "S"
+        ], 
+        "color": "green", 
+        "pattern": "cargo", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "sleeveless", 
+        "type": "hoodie", 
+        "price": 19.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded11": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "L", 
+            "XL", 
+            "XXL", 
+            "M", 
+            "S"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 29.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/shirt_5_03": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "M", 
+            "XL", 
+            "S", 
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "blue, black", 
+        "pattern": "vertical striples", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 34.99, 
+        "size": "XS"
+    }, 
+    "1514019/Rearranged/Sneakers": {
+        "assetType": "shoes", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "XXL", 
+            "XL", 
+            "S"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 49.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/long_coat_10": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "XL"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "long", 
+        "type": "coat", 
+        "price": 179.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_6": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "M", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "grey, black", 
+        "pattern": "vertical stripes", 
+        "brand": "Fancy Nails", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 89.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/suit_hanging": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "XXL", 
+            "XL", 
+            "M", 
+            "L", 
+            "XS"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "long", 
+        "type": "suit", 
+        "price": 124.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up16": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "M", 
+            "S", 
+            "L"
+        ], 
+        "color": "pink", 
+        "pattern": "plain", 
+        "brand": "Coats & More", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 59.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up14": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "M", 
+            "XS", 
+            "S", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "grey, blue", 
+        "pattern": "light vertical stripes", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 94.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up11": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "XL", 
+            "XXL", 
+            "L", 
+            "XS", 
+            "M"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 69.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up10": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "XXL", 
+            "XL", 
+            "XS", 
+            "L", 
+            "M", 
+            "S"
+        ], 
+        "color": "grey, black", 
+        "pattern": "light vertical stripes", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 74.99, 
+        "size": "S"
+    }, 
+    "1498649_store/Prefabs/_itog040": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "XS", 
+            "M", 
+            "L"
+        ], 
+        "color": "maroon, white, blue", 
+        "pattern": "holiday", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 9.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_36": {
+        "assetType": "skirt", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "XXL", 
+            "XL", 
+            "L"
+        ], 
+        "color": "black, grey", 
+        "pattern": "checkered", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 24.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_1_11": {
+        "assetType": "skirt", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "XXL"
+        ], 
+        "color": "black, white", 
+        "pattern": "star design", 
+        "brand": "Home Store", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 64.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 44": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "M", 
+            "L"
+        ], 
+        "color": "brown", 
+        "pattern": "diamonds", 
+        "brand": "River Chateau", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "L"
+    }, 
+    "1498649_store/Prefabs/_itog044": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "XXL", 
+            "XL", 
+            "M", 
+            "S", 
+            "L", 
+            "XS"
+        ], 
+        "color": "red, white, yellow", 
+        "pattern": "plaid", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 64.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/vest08": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.1, 
+        "availableSizes": [
+            "XL", 
+            "XXL", 
+            "L", 
+            "S"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "sleeveless", 
+        "type": "vest", 
+        "price": 69.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_30": {
+        "assetType": "skirt", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "XXL", 
+            "L"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 4.99, 
+        "size": "XXL"
+    }, 
+    "1498649_store/Prefabs/_itog049": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "XL", 
+            "L"
+        ], 
+        "color": "maroon, white, blue", 
+        "pattern": "holiday", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 39.99, 
+        "size": "S"
+    }, 
+    "clothing_store/models/prefab/cap_5": {
+        "assetType": "hat", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "XL", 
+            "XXL", 
+            "M", 
+            "XS", 
+            "L", 
+            "S"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "", 
+        "type": "hat", 
+        "price": 4.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded19": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "XS", 
+            "M", 
+            "S", 
+            "XL", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "white", 
+        "pattern": "stripes", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 199.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 48": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "L", 
+            "XS", 
+            "XXL", 
+            "M", 
+            "S"
+        ], 
+        "color": "blue", 
+        "pattern": "diamonds", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 84.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_01_62": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "XXL", 
+            "S", 
+            "L"
+        ], 
+        "color": "green, violet, pink", 
+        "pattern": "leafy design", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 19.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_14": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.1, 
+        "availableSizes": [
+            "XL", 
+            "M", 
+            "L"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 14.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_01_60": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 4.7, 
+        "availableSizes": [
+            "XXL", 
+            "L", 
+            "XL"
+        ], 
+        "color": "white, red, violet", 
+        "pattern": "leafy design", 
+        "brand": "North Lodge", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 64.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/shirt_3_05": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "L", 
+            "XL", 
+            "M", 
+            "XS"
+        ], 
+        "color": "white, grey", 
+        "pattern": "vertical striples", 
+        "brand": "North Lodge", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 59.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_13": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "S", 
+            "XXL", 
+            "XL"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 89.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/tank_top_1_01": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.0, 
+        "availableSizes": [
+            "M", 
+            "S", 
+            "XXL", 
+            "XL"
+        ], 
+        "color": "pink, white", 
+        "pattern": "spots", 
+        "brand": "Fancy Nails", 
+        "sleeveLength": "sleeveless", 
+        "type": "tank top", 
+        "price": 59.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded12": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 2.5, 
+        "availableSizes": [
+            "M", 
+            "XL"
+        ], 
+        "color": "green", 
+        "pattern": "stripes", 
+        "brand": "River Chateau", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 139.99, 
+        "size": "XL"
+    }, 
+    "1498649_store/Prefabs/_itog056": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "XS", 
+            "M", 
+            "XL", 
+            "S"
+        ], 
+        "color": "white, grey", 
+        "pattern": "leafy design", 
+        "brand": "StyleNow Feed", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 54.99, 
+        "size": "S"
+    }, 
+    "1514019/Rearranged/Sneakers_4": {
+        "assetType": "shoes", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "XS", 
+            "M", 
+            "L"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "New Fashion", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 169.99, 
+        "size": "M"
+    }, 
+    "1498649_store/Prefabs/_itog054": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "XS", 
+            "M", 
+            "L"
+        ], 
+        "color": "red, white", 
+        "pattern": "holiday", 
+        "brand": "River Chateau", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 189.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_shirt_1-1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "XL", 
+            "S"
+        ], 
+        "color": "pink", 
+        "pattern": "plain", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 49.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_6_08": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "XS", 
+            "L", 
+            "XL", 
+            "XXL"
+        ], 
+        "color": "brown, black", 
+        "pattern": "plain", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 94.99, 
+        "size": "L"
+    }, 
+    "1514019/Rearranged/Shoes_Preppy": {
+        "assetType": "shoes", 
+        "customerReview": 4.0, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "golden", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 234.99, 
+        "size": "XS"
+    }, 
+    "870230/hoodie03": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.0, 
+        "availableSizes": [
+            "S", 
+            "XL", 
+            "XXL"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "212 Local", 
+        "sleeveLength": "full", 
+        "type": "hoodie", 
+        "price": 144.99, 
+        "size": "XXL"
+    }, 
+    "870230/hoodie04": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "L", 
+            "S", 
+            "M"
+        ], 
+        "color": "green", 
+        "pattern": "plain", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "full", 
+        "type": "hoodie", 
+        "price": 114.99, 
+        "size": "S"
+    }, 
+    "1514019/Rearranged/TShirt_Black": {
+        "assetType": "tshirt_display", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "M", 
+            "L", 
+            "XL"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 19.99, 
+        "size": "L"
+    }, 
+    "870230/hoodie09": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "S"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "full", 
+        "type": "hoodie", 
+        "price": 129.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_2_29": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "XS", 
+            "L", 
+            "XL"
+        ], 
+        "color": "violet", 
+        "pattern": "plain", 
+        "brand": "HairDo", 
+        "sleeveLength": "sleeveless", 
+        "type": "blouse", 
+        "price": 49.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/sweater_folded06": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "L", 
+            "S", 
+            "M"
+        ], 
+        "color": "pink", 
+        "pattern": "stripes", 
+        "brand": "Coats & More", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 184.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_6_05": {
+        "assetType": "dress_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "S", 
+            "L"
+        ], 
+        "color": "black, olive", 
+        "pattern": "plain", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 134.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_6_04": {
+        "assetType": "dress_hanging", 
+        "customerReview": 4.1, 
+        "availableSizes": [
+            "XS"
+        ], 
+        "color": "black, olive", 
+        "pattern": "plain", 
+        "brand": "Home Store", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 149.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress2_16": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "L", 
+            "XXL", 
+            "S", 
+            "M", 
+            "XS"
+        ], 
+        "color": "dark pink", 
+        "pattern": "plain", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 149.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_03": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "S", 
+            "XL"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Art Den", 
+        "sleeveLength": "full", 
+        "type": "sweater", 
+        "price": 59.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/jacket_2_06": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.1, 
+        "availableSizes": [
+            "S", 
+            "XL"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "full", 
+        "type": "coat", 
+        "price": 59.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/jacket_2_03": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "L", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Art News Today", 
+        "sleeveLength": "full", 
+        "type": "coat", 
+        "price": 59.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/long_coat_06": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 2.7, 
+        "availableSizes": [
+            "L", 
+            "XS", 
+            "XL", 
+            "XXL", 
+            "M"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "212 Local", 
+        "sleeveLength": "long", 
+        "type": "coat", 
+        "price": 239.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_2_1": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "S", 
+            "M", 
+            "XL", 
+            "L", 
+            "XS"
+        ], 
+        "color": "white, black", 
+        "pattern": "spots", 
+        "brand": "New Fashion", 
+        "sleeveLength": "sleeveless", 
+        "type": "blouse", 
+        "price": 19.99, 
+        "size": "XS"
+    }, 
+    "1514019/Rearranged/Jeans_Grey": {
+        "assetType": "trousers_display", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "M", 
+            "XS", 
+            "XL", 
+            "S", 
+            "XXL", 
+            "L"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "", 
+        "type": "jeans", 
+        "price": 164.99, 
+        "size": "L"
+    }, 
+    "1514019/Rearranged/Sneakers_V2": {
+        "assetType": "shoes", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "XS", 
+            "S", 
+            "XXL", 
+            "XL", 
+            "L", 
+            "M"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 134.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_mannequin_1_02": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.7, 
+        "availableSizes": [
+            "S", 
+            "M", 
+            "XS"
+        ], 
+        "color": "olive, white", 
+        "pattern": "vertical stripes", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 19.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_01": {
+        "assetType": "tshirt_display", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "S", 
+            "XXL", 
+            "XL"
+        ], 
+        "color": "dark blue", 
+        "pattern": "plain", 
+        "brand": "Coats & More", 
+        "sleeveLength": "full", 
+        "type": "sweater", 
+        "price": 79.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_43": {
+        "assetType": "skirt", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "M", 
+            "XL", 
+            "S", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 59.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up03": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "L"
+        ], 
+        "color": "grey, black", 
+        "pattern": "light vertical stripes", 
+        "brand": "Global Voyager", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 74.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up04": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.3, 
+        "availableSizes": [
+            "XL", 
+            "S"
+        ], 
+        "color": "yellow", 
+        "pattern": "plain", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 64.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/tank_top_1_": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "XXL", 
+            "S", 
+            "XL", 
+            "XS"
+        ], 
+        "color": "red, white", 
+        "pattern": "spots", 
+        "brand": "North Lodge", 
+        "sleeveLength": "sleeveless", 
+        "type": "tank top", 
+        "price": 29.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up06": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "XS", 
+            "XL", 
+            "S", 
+            "L", 
+            "M", 
+            "XXL"
+        ], 
+        "color": "dark red", 
+        "pattern": "plain", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 9.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress2_": {
+        "assetType": "dress_hanging", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "L", 
+            "M", 
+            "XXL", 
+            "S", 
+            "XL"
+        ], 
+        "color": "beige", 
+        "pattern": "plain", 
+        "brand": "Fancy Nails", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 229.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up08": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "L"
+        ], 
+        "color": "olive", 
+        "pattern": "plain", 
+        "brand": "Ocean Wears", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 94.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/shirt_2_05": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "XXL", 
+            "S"
+        ], 
+        "color": "dark pink, white", 
+        "pattern": "vertical striples", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 54.99, 
+        "size": "S"
+    }, 
+    "clothing_store/models/prefab/sneakers_2": {
+        "assetType": "shoes", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "M", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "blue", 
+        "pattern": "canvas", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 179.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 18": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "M", 
+            "XL"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 44.99, 
+        "size": "XL"
+    }, 
+    "1498649_store/Prefabs/_itog028": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.3, 
+        "availableSizes": [
+            "XL", 
+            "S", 
+            "M", 
+            "L", 
+            "XXL", 
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "design", 
+        "brand": "Home Store", 
+        "sleeveLength": "short", 
+        "type": "dress", 
+        "price": 94.99, 
+        "size": "M"
+    }, 
+    "1498649_store/Prefabs/_itog029": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.1, 
+        "availableSizes": [
+            "L", 
+            "XL", 
+            "M", 
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "knit", 
+        "brand": "Downtown Consignment", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 209.99, 
+        "size": "XL"
+    }, 
+    "1208725/Tshirt_white": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "S", 
+            "XXL", 
+            "XS", 
+            "L", 
+            "M", 
+            "XL"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "New Fashion", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 54.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_4_16": {
+        "assetType": "dress_hanging", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "L", 
+            "XXL", 
+            "XS", 
+            "S", 
+            "M", 
+            "XL"
+        ], 
+        "color": "brown", 
+        "pattern": "plain", 
+        "brand": "Pedals & Gears", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 239.99, 
+        "size": "M"
+    }, 
+    "1498649_store/Prefabs/_itog045": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 4.7, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "M"
+        ], 
+        "color": "black", 
+        "pattern": "diamonds", 
+        "brand": "Art News Today", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 59.99, 
+        "size": "S"
+    }, 
+    "1498649_store/Prefabs/_itog022": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "M", 
+            "S", 
+            "XS", 
+            "XL", 
+            "XXL", 
+            "L"
+        ], 
+        "color": "white, black", 
+        "pattern": "leafy design", 
+        "brand": "HairDo", 
+        "sleeveLength": "long", 
+        "type": "blouse", 
+        "price": 74.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up28 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.6, 
+        "availableSizes": [
+            "L"
+        ], 
+        "color": "blue, white", 
+        "pattern": "vertical stripes", 
+        "brand": "Cats Are Great", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 54.99, 
+        "size": "L"
+    }, 
+    "1514019/Rearranged/Sneakers_Adidas": {
+        "assetType": "shoes", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "XS", 
+            "XL", 
+            "L", 
+            "M"
+        ], 
+        "color": "black, white", 
+        "pattern": "twin colors", 
+        "brand": "New Fashion", 
+        "sleeveLength": "", 
+        "type": "shoes", 
+        "price": 34.99, 
+        "size": "L"
+    }, 
+    "1498649_store/Prefabs/_itog026": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "M", 
+            "XL", 
+            "S", 
+            "XXL", 
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "knit", 
+        "brand": "StyleNow Feed", 
+        "sleeveLength": "short", 
+        "type": "blouse", 
+        "price": 29.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/sweater_folded74": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "XXL"
+        ], 
+        "color": "red, black", 
+        "pattern": "plain", 
+        "brand": "River Chateau", 
+        "sleeveLength": "long", 
+        "type": "sweater", 
+        "price": 239.99, 
+        "size": "XXL"
+    }, 
+    "1514019/Rearranged/Jeans_Blue": {
+        "assetType": "trousers_display", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "M", 
+            "XXL", 
+            "XL", 
+            "L", 
+            "XS"
+        ], 
+        "color": "blue", 
+        "pattern": "denim", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "", 
+        "type": "jeans", 
+        "price": 154.99, 
+        "size": "M"
+    }, 
+    "1514019/Rearranged/TShirt_White": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.7, 
+        "availableSizes": [
+            "S", 
+            "M", 
+            "XS", 
+            "XXL"
+        ], 
+        "color": "white", 
+        "pattern": "plain", 
+        "brand": "Brain Puzzles", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 39.99, 
+        "size": "S"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/shirt_1_04": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "XXL", 
+            "XL"
+        ], 
+        "color": "blue, white", 
+        "pattern": "vertical striples", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 24.99, 
+        "size": "XXL"
+    }, 
+    "1208725/Jacket_blue": {
+        "assetType": "jacket_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "L"
+        ], 
+        "color": "blue", 
+        "pattern": "plain", 
+        "brand": "Home Store", 
+        "sleeveLength": "full", 
+        "type": "jacket", 
+        "price": 99.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/blouse_2_15": {
+        "assetType": "blouse_hanging", 
+        "customerReview": 3.9, 
+        "availableSizes": [
+            "M", 
+            "L", 
+            "XS", 
+            "XL"
+        ], 
+        "color": "grey, white", 
+        "pattern": "spots", 
+        "brand": "Nature Photographers", 
+        "sleeveLength": "sleeveless", 
+        "type": "blouse", 
+        "price": 69.99, 
+        "size": "L"
+    }, 
+    "clothing_store/models/prefab/T_shirt_2": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.2, 
+        "availableSizes": [
+            "M", 
+            "XL"
+        ], 
+        "color": "black", 
+        "pattern": "design", 
+        "brand": "Fancy Nails", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 24.99, 
+        "size": "XL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_hung_up30 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 3.8, 
+        "availableSizes": [
+            "M", 
+            "S", 
+            "XXL"
+        ], 
+        "color": "grey, blue", 
+        "pattern": "vertical stripes", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "half", 
+        "type": "shirt", 
+        "price": 64.99, 
+        "size": "XXL"
+    }, 
+    "MensCollection/Prefabs/Rearranged/folded polo shirt22": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.9, 
+        "availableSizes": [
+            "L", 
+            "XS", 
+            "XL", 
+            "XXL", 
+            "M"
+        ], 
+        "color": "red", 
+        "pattern": "plain", 
+        "brand": "StyleNow Feed", 
+        "sleeveLength": "short", 
+        "type": "tshirt", 
+        "price": 9.99, 
+        "size": "XS"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt display 1": {
+        "assetType": "tshirt_display", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "L", 
+            "XL", 
+            "S", 
+            "XS", 
+            "M"
+        ], 
+        "color": "violet", 
+        "pattern": "plain", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 94.99, 
+        "size": "M"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/tank_top_1_29 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.8, 
+        "availableSizes": [
+            "S", 
+            "XS", 
+            "M", 
+            "XXL", 
+            "XL", 
+            "L"
+        ], 
+        "color": "black, white", 
+        "pattern": "spots", 
+        "brand": "Glam Nails", 
+        "sleeveLength": "sleeveless", 
+        "type": "tank top", 
+        "price": 69.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/hanging_dress_1_26": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XL", 
+            "XXL", 
+            "XS", 
+            "M", 
+            "L"
+        ], 
+        "color": "maroon", 
+        "pattern": "plain", 
+        "brand": "North Lodge", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 149.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/hanging_dress_1_20": {
+        "assetType": "dress_hanging", 
+        "customerReview": 4.2, 
+        "availableSizes": [
+            "M", 
+            "XL"
+        ], 
+        "color": "red", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 74.99, 
+        "size": "XL"
+    }, 
+    "clothing_store/models/prefab/trousers_2": {
+        "assetType": "trousers_display", 
+        "customerReview": 3.5, 
+        "availableSizes": [
+            "XS", 
+            "S"
+        ], 
+        "color": "grey", 
+        "pattern": "heavy stripes", 
+        "brand": "The Vegan Baker", 
+        "sleeveLength": "", 
+        "type": "trousers", 
+        "price": 244.99, 
+        "size": "XS"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/hanging_dress_1": {
+        "assetType": "dress_hanging", 
+        "customerReview": 4.3, 
+        "availableSizes": [
+            "XS", 
+            "XL", 
+            "S", 
+            "XXL", 
+            "L", 
+            "M"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Yogi Fit", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 124.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress_6_": {
+        "assetType": "dress_hanging", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "L"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "212 Local", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 174.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_13": {
+        "assetType": "skirt", 
+        "customerReview": 3.4, 
+        "availableSizes": [
+            "S", 
+            "L", 
+            "XL", 
+            "XS", 
+            "M"
+        ], 
+        "color": "grey, white", 
+        "pattern": "streaks", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 29.99, 
+        "size": "S"
+    }, 
+    "1208725/Tshirt_black": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "L", 
+            "S", 
+            "M", 
+            "XS"
+        ], 
+        "color": "black", 
+        "pattern": "plain", 
+        "brand": "Nature Photographers", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 29.99, 
+        "size": "L"
+    }, 
+    "MensCollection/Prefabs/Rearranged/folded polo shirt21": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.5, 
+        "availableSizes": [
+            "L", 
+            "XL", 
+            "XXL"
+        ], 
+        "color": "grey", 
+        "pattern": "plain", 
+        "brand": "Uptown Studio", 
+        "sleeveLength": "short", 
+        "type": "tshirt", 
+        "price": 9.99, 
+        "size": "XXL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/dress2_29": {
+        "assetType": "dress_hanging", 
+        "customerReview": 3.6, 
+        "availableSizes": [
+            "XL", 
+            "M", 
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "purple", 
+        "pattern": "plain", 
+        "brand": "Uptown Gallery", 
+        "sleeveLength": "sleeveless", 
+        "type": "dress", 
+        "price": 224.99, 
+        "size": "XL"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/tank_top_1_01 1": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 2.8, 
+        "availableSizes": [
+            "S", 
+            "XXL", 
+            "XS", 
+            "L"
+        ], 
+        "color": "black, white", 
+        "pattern": "leapard print", 
+        "brand": "Home Store", 
+        "sleeveLength": "sleeveless", 
+        "type": "tank top", 
+        "price": 34.99, 
+        "size": "L"
+    }, 
+    "WomensCollection/Prefabs/Rearranged/skirt_3_12": {
+        "assetType": "skirt", 
+        "customerReview": 2.9, 
+        "availableSizes": [
+            "M"
+        ], 
+        "color": "grey, white", 
+        "pattern": "plain", 
+        "brand": "Downtown Stylists", 
+        "sleeveLength": "short", 
+        "type": "skirt", 
+        "price": 39.99, 
+        "size": "M"
+    }, 
+    "MensCollection/Prefabs/Rearranged/shirt_9": {
+        "assetType": "tshirt_folded", 
+        "customerReview": 4.4, 
+        "availableSizes": [
+            "XXL", 
+            "L", 
+            "XL", 
+            "XS", 
+            "S"
+        ], 
+        "color": "olive, white", 
+        "pattern": "vertical stripes", 
+        "brand": "Art Den", 
+        "sleeveLength": "long", 
+        "type": "shirt", 
+        "price": 74.99, 
+        "size": "S"
+    }, 
+    "MensCollection/Prefabs/Rearranged/polo shirt 16": {
+        "assetType": "tshirt_hanging", 
+        "customerReview": 4.6, 
+        "availableSizes": [
+            "M", 
+            "XS", 
+            "S", 
+            "XL", 
+            "L", 
+            "XXL"
+        ], 
+        "color": "white, black", 
+        "pattern": "horizontal stripes", 
+        "brand": "Modern Arts", 
+        "sleeveLength": "half", 
+        "type": "tshirt", 
+        "price": 94.99, 
+        "size": "XL"
+    }
+}

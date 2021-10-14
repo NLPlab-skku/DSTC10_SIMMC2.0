@@ -1,0 +1,458 @@
+{
+    "modified_wayfair_assets/AreaRug/AreaRug_BNGL7292_v6_LOD2 (1)": {
+        "brand": "Art Den",
+        "color": "red",
+        "customerRating": 3.8,
+        "materials": "natural fibers",
+        "price": "$199",
+        "type": "AreaRug"
+    },
+    "modified_wayfair_assets/AreaRug/AreaRug_BNGL9021_v6_LOD2": {
+        "brand": "River Chateau",
+        "color": "blue",
+        "customerRating": 3.4,
+        "materials": "wool",
+        "price": "$249",
+        "type": "AreaRug"
+    },
+    "modified_wayfair_assets/AreaRug/AreaRug_MCRR7867_v6_LOD2": {
+        "brand": "Home Store",
+        "color": "white",
+        "customerRating": 3.6,
+        "materials": "natural fibers",
+        "price": "$449",
+        "type": "AreaRug"
+    },
+    "modified_wayfair_assets/AreaRug/AreaRug_MROW8373_v6_LOD2": {
+        "brand": "Uptown Studio",
+        "color": "white",
+        "customerRating": 3.0,
+        "materials": "natural fibers",
+        "price": "$249",
+        "type": "AreaRug"
+    },
+    "modified_wayfair_assets/AreaRug/AreaRug_MROW8373_v6_LOD2 (1)": {
+        "brand": "North Lodge",
+        "color": "grey",
+        "customerRating": 3.8,
+        "materials": "wool",
+        "price": "$499",
+        "type": "AreaRug"
+    },
+    "modified_wayfair_assets/AreaRug/AreaRug_MTNA1398_v6_LOD2": {
+        "brand": "Global Voyager",
+        "color": "blue",
+        "customerRating": 2.7,
+        "materials": "wool",
+        "price": "$399",
+        "type": "AreaRug"
+    },
+    "modified_wayfair_assets/AreaRug/AreaRug_MTNA1398_v6_LOD2 (1)": {
+        "brand": "Global Voyager",
+        "color": "blue",
+        "customerRating": 4.3,
+        "materials": "wool",
+        "price": "$349",
+        "type": "AreaRug"
+    },
+    "modified_wayfair_assets/Bed/Bed_ALCT1694": {
+        "brand": "StyleNow Feed",
+        "color": "grey",
+        "customerRating": 3.9,
+        "materials": "memory foam",
+        "price": "$599",
+        "type": "Bed"
+    },
+    "modified_wayfair_assets/Bed/Bed_ANDV1049": {
+        "brand": "Home Store",
+        "color": "grey",
+        "customerRating": 3.1,
+        "materials": "memory foam",
+        "price": "$349",
+        "type": "Bed"
+    },
+    "modified_wayfair_assets/Chair/Chair_CSTD2801_v6_LOD2": {
+        "brand": "212 Local",
+        "color": "white",
+        "customerRating": 3.7,
+        "materials": "leather",
+        "price": "$549",
+        "type": "Chair"
+    },
+    "modified_wayfair_assets/Chair/Chair_CSTD2801_v6_LOD2 (1)": {
+        "brand": "Modern Arts",
+        "color": "brown",
+        "customerRating": 4.2,
+        "materials": "leather",
+        "price": "$299",
+        "type": "Chair"
+    },
+    "modified_wayfair_assets/Chair/Chair_LGLY5216_v6_LOD2": {
+        "brand": "Uptown Gallery",
+        "color": "white",
+        "customerRating": 4.7,
+        "materials": "leather",
+        "price": "$499",
+        "type": "Chair"
+    },
+    "modified_wayfair_assets/Chair/Chair_ORNE7051_v6_LOD2": {
+        "brand": "Modern Arts",
+        "color": "brown",
+        "customerRating": 3.0,
+        "materials": "wood",
+        "price": "$399",
+        "type": "Chair"
+    },
+    "modified_wayfair_assets/Chair/Chair_RDBL3915_v6_LOD2": {
+        "brand": "Home Store",
+        "color": "green",
+        "customerRating": 2.9,
+        "materials": "natural fibers",
+        "price": "$399",
+        "type": "Chair"
+    },
+    "modified_wayfair_assets/Chair/Chair_RDBL3915_v6_LOD2 (1)": {
+        "brand": "212 Local",
+        "color": "brown",
+        "customerRating": 3.2,
+        "materials": "leather",
+        "price": "$299",
+        "type": "Chair"
+    },
+    "modified_wayfair_assets/Chair/Chair_ZIPC6590_v6_LOD2": {
+        "brand": "StyleNow Feed",
+        "color": "black",
+        "customerRating": 3.7,
+        "materials": "leather",
+        "price": "$499",
+        "type": "Chair"
+    },
+    "modified_wayfair_assets/Chair/Chair_ZIPC6590_v6_LOD2 (1)": {
+        "brand": "212 Local",
+        "color": "black and white",
+        "customerRating": 3.7,
+        "materials": "leather",
+        "price": "$499",
+        "type": "Chair"
+    },
+    "modified_wayfair_assets/CoffeeTable/CoffeeTable_BLET2606": {
+        "brand": "Uptown Studio",
+        "color": "brown",
+        "customerRating": 3.5,
+        "materials": "metal",
+        "price": "$399",
+        "type": "CoffeeTable"
+    },
+    "modified_wayfair_assets/CoffeeTable/CoffeeTable_RDBL5363_v6_LOD2": {
+        "brand": "Home Store",
+        "color": "white",
+        "customerRating": 4.3,
+        "materials": "marble",
+        "price": "$399",
+        "type": "CoffeeTable"
+    },
+    "modified_wayfair_assets/CoffeeTable/CoffeeTable_THPS2723_v6_LOD2": {
+        "brand": "Art Den",
+        "color": "grey",
+        "customerRating": 3.9,
+        "materials": "wood",
+        "price": "$399",
+        "type": "CoffeeTable"
+    },
+    "modified_wayfair_assets/CoffeeTable/CoffeeTable_THPS2723_v6_LOD2 (1)": {
+        "brand": "Art Den",
+        "color": "wooden",
+        "customerRating": 3.8,
+        "materials": "wood",
+        "price": "$649",
+        "type": "CoffeeTable"
+    },
+    "modified_wayfair_assets/CouchChair/CouchChair_ALTL2260": {
+        "brand": "Modern Arts",
+        "color": "white",
+        "customerRating": 2.9,
+        "materials": "leather",
+        "price": "$449",
+        "type": "CouchChair"
+    },
+    "modified_wayfair_assets/CouchChair/CouchChair_GRYL4160": {
+        "brand": "Downtown Consignment",
+        "color": "white",
+        "customerRating": 4.2,
+        "materials": "leather",
+        "price": "$349",
+        "type": "CouchChair"
+    },
+    "modified_wayfair_assets/CouchChair/CouchChair_LATR7704_v6_LOD2": {
+        "brand": "Uptown Studio",
+        "color": "grey",
+        "customerRating": 4.2,
+        "materials": "leather",
+        "price": "$649",
+        "type": "CouchChair"
+    },
+    "modified_wayfair_assets/CouchChair/CouchChair_VKGL1857_v6_LOD2": {
+        "brand": "Downtown Stylists",
+        "color": "white",
+        "customerRating": 4.4,
+        "materials": "leather",
+        "price": "$499",
+        "type": "CouchChair"
+    },
+    "modified_wayfair_assets/CouchChair/CouchChair_VKGL1857_v6_LOD2 (1)": {
+        "brand": "Downtown Stylists",
+        "color": "brown",
+        "customerRating": 2.9,
+        "materials": "leather",
+        "price": "$349",
+        "type": "CouchChair"
+    },
+    "modified_wayfair_assets/CouchChair/CouchChair_VKGL1857_v6_LOD2 (2)": {
+        "brand": "Downtown Stylists",
+        "color": "blue",
+        "customerRating": 3.4,
+        "materials": "leather",
+        "price": "$649",
+        "type": "CouchChair"
+    },
+    "modified_wayfair_assets/CouchChair/CouchChair_VKGL1857_v6_LOD2 (3)": {
+        "brand": "Downtown Stylists",
+        "color": "grey",
+        "customerRating": 4.8,
+        "materials": "leather",
+        "price": "$349",
+        "type": "CouchChair"
+    },
+    "modified_wayfair_assets/EndTable/EndTable_ATGR2663_v6_LOD2": {
+        "brand": "North Lodge",
+        "color": "black",
+        "customerRating": 3.7,
+        "materials": "wood",
+        "price": "$549",
+        "type": "EndTable"
+    },
+    "modified_wayfair_assets/EndTable/EndTable_ATGR2663_v6_LOD2 (1)": {
+        "brand": "Modern Arts",
+        "color": "wooden",
+        "customerRating": 3.3,
+        "materials": "wood",
+        "price": "$399",
+        "type": "EndTable"
+    },
+    "modified_wayfair_assets/EndTable/EndTable_ATGR2663_v6_LOD2 1": {
+        "brand": "StyleNow Feed",
+        "color": "white",
+        "customerRating": 4.9,
+        "materials": "wood",
+        "price": "$399",
+        "type": "EndTable"
+    },
+    "modified_wayfair_assets/Lamp/Lamp_BL3138_v6_LOD2": {
+        "brand": "River Chateau",
+        "color": "white",
+        "customerRating": 4.9,
+        "materials": "metal",
+        "price": "$299",
+        "type": "Lamp"
+    },
+    "modified_wayfair_assets/Lamp/Lamp_CHLH3796": {
+        "brand": "River Chateau",
+        "color": "white",
+        "customerRating": 4.2,
+        "materials": "metal",
+        "price": "$549",
+        "type": "Lamp"
+    },
+    "modified_wayfair_assets/Lamp/Lamp_HES3357": {
+        "brand": "Global Voyager",
+        "color": "white",
+        "customerRating": 3.1,
+        "materials": "metal",
+        "price": "$349",
+        "type": "Lamp"
+    },
+    "modified_wayfair_assets/Lamp/LAMP_ORNL2695_v6_LOD2": {
+        "brand": "StyleNow Feed",
+        "color": "blue",
+        "customerRating": 3.0,
+        "materials": "metal",
+        "price": "$649",
+        "type": "Lamp"
+    },
+    "modified_wayfair_assets/Lamp/Lamp_TRPT5424_v6_LOD2": {
+        "brand": "Downtown Stylists",
+        "color": "white",
+        "customerRating": 3.1,
+        "materials": "metal",
+        "price": "$249",
+        "type": "Lamp"
+    },
+    "modified_wayfair_assets/Shelves/Shelves_BRWT5190_v6_LOD2": {
+        "brand": "Modern Arts",
+        "color": "wooden",
+        "customerRating": 3.2,
+        "materials": "wood",
+        "price": "$199",
+        "type": "Shelves"
+    },
+    "modified_wayfair_assets/Shelves/Shelves_EHEM1020_v6_LOD2": {
+        "brand": "Home Store",
+        "color": "white",
+        "customerRating": 2.9,
+        "materials": "wood",
+        "price": "$499",
+        "type": "Shelves"
+    },
+    "modified_wayfair_assets/Shelves/Shelves_EHEM1020_v6_LOD2 (1)": {
+        "brand": "Modern Arts",
+        "color": "wooden",
+        "customerRating": 3.7,
+        "materials": "wood",
+        "price": "$399",
+        "type": "Shelves"
+    },
+    "modified_wayfair_assets/Shelves/Shelves_LRFY1920_v6_LOD2": {
+        "brand": "River Chateau",
+        "color": "wooden",
+        "customerRating": 3.3,
+        "materials": "wood",
+        "price": "$499",
+        "type": "Shelves"
+    },
+    "modified_wayfair_assets/Shelves/Shelves_MCRF5348_v6_LOD2": {
+        "brand": "River Chateau",
+        "color": "wooden",
+        "customerRating": 4.7,
+        "materials": "wood",
+        "price": "$249",
+        "type": "Shelves"
+    },
+    "modified_wayfair_assets/Shelves/Shelves_RDBS8806_v6_LOD2": {
+        "brand": "Modern Arts",
+        "color": "wooden",
+        "customerRating": 4.4,
+        "materials": "wood",
+        "price": "$499",
+        "type": "Shelves"
+    },
+    "modified_wayfair_assets/Shelves/Shelves_ZIPC1380_v6_LOD2": {
+        "brand": "Modern Arts",
+        "color": "wooden",
+        "customerRating": 4.7,
+        "materials": "wood",
+        "price": "$599",
+        "type": "Shelves"
+    },
+    "modified_wayfair_assets/Shelves/Shelves_ZIPC1380_v6_LOD2 (1)": {
+        "brand": "Global Voyager",
+        "color": "wooden",
+        "customerRating": 3.1,
+        "materials": "wood",
+        "price": "$199",
+        "type": "Shelves"
+    },
+    "modified_wayfair_assets/Sofa/Couch_CSTM1207_v6_LOD2": {
+        "brand": "River Chateau",
+        "color": "red",
+        "customerRating": 4.9,
+        "materials": "leather",
+        "price": "$599",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Sofa/Couch_LGLY5857_v6_LOD2": {
+        "brand": "Art Den",
+        "color": "green",
+        "customerRating": 4.7,
+        "materials": "leather",
+        "price": "$349",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Sofa/Couch_LGLY5857_v6_LOD2 (1)": {
+        "brand": "Downtown Stylists",
+        "color": "brown",
+        "customerRating": 2.9,
+        "materials": "leather",
+        "price": "$349",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Sofa/Couch_TRPT1526_v6_LOD2": {
+        "brand": "Downtown Consignment",
+        "color": "brown",
+        "customerRating": 5.0,
+        "materials": "leather",
+        "price": "$599",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Sofa/Couch_ZIPC2510_v6_LOD2": {
+        "brand": "Modern Arts",
+        "color": "grey",
+        "customerRating": 3.1,
+        "materials": "leather",
+        "price": "$399",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Sofa/Couch_ZIPC4022_v6_LOD2": {
+        "brand": "Global Voyager",
+        "color": "grey",
+        "customerRating": 2.7,
+        "materials": "leather",
+        "price": "$549",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Sofa/Couch_ZIPC4022_v6_LOD2 (1)": {
+        "brand": "Global Voyager",
+        "color": "white",
+        "customerRating": 4.3,
+        "materials": "leather",
+        "price": "$349",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Sofa/Couch_ZIPC4022_v6_LOD2 (2)": {
+        "brand": "Modern Arts",
+        "color": "grey",
+        "customerRating": 3.6,
+        "materials": "leather",
+        "price": "$449",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Sofa/Sofa_WADL4451_v6_LOD2": {
+        "brand": "212 Local",
+        "color": "grey",
+        "customerRating": 4.7,
+        "materials": "leather",
+        "price": "$399",
+        "type": "Sofa"
+    },
+    "modified_wayfair_assets/Table/DiningTable_LGLY3140_v6_LOD2": {
+        "brand": "StyleNow Feed",
+        "color": "wooden",
+        "customerRating": 3.2,
+        "materials": "wood",
+        "price": "$399",
+        "type": "Table"
+    },
+    "modified_wayfair_assets/Table/Table_LGLY5881_v6_LOD2": {
+        "brand": "River Chateau",
+        "color": "wooden",
+        "customerRating": 4.3,
+        "materials": "wood",
+        "price": "$399",
+        "type": "Table"
+    },
+    "modified_wayfair_assets/Table/Table_LOON6775_v6_LOD2": {
+        "brand": "Global Voyager",
+        "color": "grey",
+        "customerRating": 3.3,
+        "materials": "wood",
+        "price": "$649",
+        "type": "Table"
+    },
+    "modified_wayfair_assets/Table/Table_LRKM2887_v6_LOD2": {
+        "brand": "Modern Arts",
+        "color": "brown",
+        "customerRating": 3.5,
+        "materials": "wood",
+        "price": "$499",
+        "type": "Table"
+    }
+}
