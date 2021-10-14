@@ -20,10 +20,13 @@ Packages:
 ---
 ## Model Parameters
 - Download the Fine-tuned ResNet
-Google Drive Link: 
+- 
+Google Drive Link: https://drive.google.com/file/d/1pz804uvlVBsiBM6bDfbvWydKMc7T7HOa/view?usp=sharing
 - Download the Fine-tuned RoBERTa (for sub-task 1)
+- 
 Google Drive Link: https://drive.google.com/file/d/1BLVi4_3yCyh-815M7MQ-cc-zKcqCAKGF/view?usp=sharing
 - Download the Fine-tuned BART (for sub-task 2-4)
+- 
 Google Drive Link: https://drive.google.com/file/d/1KDEYLVm4Ka5WRclANfVEV54IaPGdoBYo/view?usp=sharing
 ---
 ## Datasets & Models
@@ -53,8 +56,10 @@ model
 |   |--data
 |   |   |--simmc2_dials_dstc10_teststd_public_predict.txt
 |   |   |--...
+
 ```
 ---
+
 ## Preprocessing
 
 ### For sub task 1
