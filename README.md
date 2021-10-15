@@ -1,8 +1,8 @@
 # _DSTC10 Track3 SIMMC 2.0 (SKKU-NLP)_
 
 ## Overview
-
-- 본 모델은 DSTC10 Track3를 위한 모델입니다. Sub-task 1 모델은 강력한 인코딩 능력을 가진 RoBERTa를 기반으로 모델링되었습니다. Sub-Task 2~4 모델은 ResNet과 BART 두 모델을 파이프라인으로 구성해 모델링했습니다.
+- This model is for DSTC10 Track3. Sub-Task 1 model is based on RoBERTa which has a powerful enocding ablity. Sub-Task 2~4 model is based on a pipeline of ResNet and BART.
+- The final submission files are in the "final" branch
 ---
 ## Enviroment
 
@@ -20,13 +20,10 @@ Packages:
 ---
 ## Model Parameters
 - Download the Fine-tuned ResNet
-- 
 Google Drive Link: https://drive.google.com/file/d/1pz804uvlVBsiBM6bDfbvWydKMc7T7HOa/view?usp=sharing
 - Download the Fine-tuned RoBERTa (for sub-task 1)
-- 
 Google Drive Link: https://drive.google.com/file/d/1BLVi4_3yCyh-815M7MQ-cc-zKcqCAKGF/view?usp=sharing
 - Download the Fine-tuned BART (for sub-task 2-4)
-- 
 Google Drive Link: https://drive.google.com/file/d/1KDEYLVm4Ka5WRclANfVEV54IaPGdoBYo/view?usp=sharing
 ---
 ## Datasets & Models
@@ -173,23 +170,22 @@ python -m gpt2_dst.scripts.run_generation_BART \
 ---
 ## Final result (we submitted)
 The final prediction files that we submitted are located in the path below each branch.
-**그러므로 아래 경로에 위치한 결과 파일을 이용해, 다른 모델들과의 성능 비교를 부탁드립니다.**
-
+**These are the final prediction results intended to be compared to those of other models**
 ### sub task 1
 ```sh
-branch : submit
-# Single model result
+branch : final
+# Ensemble model result
 /model/disambiguate/RoBERTa/save_model/results/entry1/dstc10-simmc-teststd-pred-subtask-1.json
 
-# Ensemble model result
+# Single model result
 /model/disambiguate/RoBERTa/save_model/results/entry2/dstc10-simmc-teststd-pred-subtask-1.json
 ```
 
 ### sub task 2-4 (line-by-line)
 ```sh
-branch : subtask2
+branch : final
 /model/mm_dst/gpt2_dst/results/dstc10-simmc-teststd-pred-subtask-3.txt
 
-branch : subtask4
+branch : final
 /model/mm_dst/gpt2_dst/results/dstc10-simmc-teststd-pred-subtask-4.txt
 ```
