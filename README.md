@@ -4,6 +4,7 @@
 
 ## Overview
 - This model is for DSTC10 Track3. Sub-Task 1 model is based on RoBERTa which has a powerful enocding ablity. Sub-Task 2~4 model is based on a pipeline of ResNet and BART.
+- **We got First Place on sub task 1 (Disambiguation) and sub task 3 (Dialogue State Tracking)**
 - The final submission files are in the "final" branch
 ---
 ## Enviroment
@@ -171,8 +172,9 @@ python -m gpt2_dst.scripts.run_generation_BART \
 
 ---
 ## Final result (we submitted)
-The final prediction files that we submitted are located in the path below each branch.
-**These are the final prediction results intended to be compared to those of other models**
+The final prediction files that we submitted are located in the path below each branch. </br>
+**These are the final prediction results intended to be compared to those of other models** </br>
+
 ### sub task 1
 ```sh
 branch : final
